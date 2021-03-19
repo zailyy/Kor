@@ -1,5 +1,5 @@
 Django==2.0.9
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 gunicorn==19.7.1
 Pillow==3.3.0
 Markdown==2.6.9
